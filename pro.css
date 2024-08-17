@@ -450,6 +450,7 @@ body {
     .contact .info .link {
         font-size: 25px;
     }
+}
 
 .footer {
     background-color: var(--secondary-color);
@@ -463,9 +464,5 @@ body {
     font-weight: bold;
     color: var(--main-color);
 }
-html {
-    scroll-behavior: smooth;
-}
 
    
-}
